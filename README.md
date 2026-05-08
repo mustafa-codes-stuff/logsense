@@ -1,5 +1,7 @@
 # LogSense
 
+**Live Demo**: [https://logsense-hazel.vercel.app/](https://logsense-hazel.vercel.app/)
+
 A minimalist Next.js tool that uses AI to ingest raw system logs and output structured, readable diagnostics.
 
 ## Features
