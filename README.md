@@ -9,6 +9,12 @@ A minimalist Next.js tool that uses AI to ingest raw system logs and output stru
 - **Structured Output**: Renders a clean interface featuring the Root Cause, a step-by-step Failure Sequence, and a distinct Suggested Fix.
 - **Modern UI**: Built with Tailwind CSS in a dark-themed, sleek stacked layout.
 
+## Screenshots
+
+| Initial State | Filled State |
+| :---: | :---: |
+| ![Initial Dashboard](./samples/initial-dashboard.png) | ![Insights Generated](./samples/insights-generated.png) |
+
 ## Getting Started
 
 1. Navigate to the directory:
